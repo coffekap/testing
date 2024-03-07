@@ -1,5 +1,2 @@
 List bahasa pemrograman
-- Javascript
-- Python
 - Golang
-- Java
