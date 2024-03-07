@@ -1,0 +1,3 @@
+List bahasa pemrograman
+- Javascript
+- PHP
