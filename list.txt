@@ -3,3 +3,6 @@ List bahasa pemrograman
 - Python
 - Golang
 - Java
+- Ruby
+- C
+- C#
