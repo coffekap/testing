@@ -6,3 +6,5 @@ List bahasa pemrograman
 - Ruby
 - C
 - C#
+- Kotlin
+- Swift
