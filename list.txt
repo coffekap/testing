@@ -8,3 +8,4 @@ List bahasa pemrograman
 - C#
 - Kotlin
 - Swift
+- C++
